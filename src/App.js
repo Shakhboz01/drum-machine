@@ -76,7 +76,7 @@ render(){
 return (
 <div className="text-center">
 
-  <h1>Drum Machine</h1>
+  <h1>Doiraya zan</h1>
 
     <div style={{border:`3px solid ${colors[math]}`}} className="container text-center">
 
