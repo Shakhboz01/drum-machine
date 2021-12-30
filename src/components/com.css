@@ -1,0 +1,14 @@
+.patterns{
+    width: 55px;
+    height: 55px;
+    display: grid;
+align-self: center;
+    background-color: darkgreen;
+}
+
+@media(max-width:420px){
+    .patterns{
+        width: 48px;
+        height: 48px;
+    }
+}
